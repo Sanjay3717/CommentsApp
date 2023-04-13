@@ -1,0 +1,70 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+.comment-item-container {
+  width: 600px;
+  margin-bottom: 20px;
+}
+.comment-name-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.margin-right-content {
+  margin-right: 10px;
+}
+.initial {
+  border-radius: 60px;
+
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+}
+.name {
+  color: #1e293b;
+  font-weight: bold;
+}
+.comment-time {
+  color: #475569;
+  font-size: 13px;
+}
+.comment {
+  text-align: center;
+  margin-top: -5px;
+  color: #64748b;
+  font-size: 15px;
+}
+.comment-icon {
+  display: flex;
+  justify-content: space-between;
+}
+.button-click-style {
+  background: transparent;
+  border-width: 0px;
+}

@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.bg-container {
+  font-family: 'Roboto';
+}
+.top-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 30vh;
+}
+.btn-style {
+  color: #dee0e3;
+  background-color: #0284c7;
+  border-width: 0px;
+  padding: 5px;
+}
+
+.text-input {
+  background: transparent;
+  border-width: 1px;
+  border-color: #cbd2d9;
+  padding: 5px;
+  margin-bottom: 15px;
+  width: 400px;
+}
+
+.bottom-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 260px;
+  min-height: 40vh;
+}
+.count {
+  background-color: #0b69ff;
+  padding: 5px;
+  color: #ffffff;
+}
+.desc {
+  color: #475569;
+}
+.comment-container {
+  list-style-type: none;
+}
